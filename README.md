@@ -8,17 +8,15 @@
       <h1 style="display: inline-block">
         Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Ted Simwa
       </h1><br />
-      <h4>Take a quick look at my <a href="tedsimwa.com" target="_blank">resume</a> for more info.</h4>
     </summary>
   </ul>
 </div>
 
 
 
-<!--- snake -->
+<!--- 3D Contribution Graph -->
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution Graph" />
 </div>
 
 
