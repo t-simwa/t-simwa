@@ -86,45 +86,6 @@ Designing and implementing robust cloud architectures on AWS with best practices
 
 ---
 
-## 🌟 Skills & Expertise
-
-### **Proficient (★★★★★)**
-- **Frontend**: React, Next.js, TypeScript, JavaScript
-- **Backend**: Node.js, Express.js, Python
-- **Cloud**: AWS, Docker, Kubernetes
-- **Database**: PostgreSQL, MongoDB
-- **DevOps**: CI/CD, Infrastructure as Code
-
-### **Intermediate (★★★★☆)**
-- **Mobile**: React Native
-- **Testing**: Jest, Cypress
-- **Monitoring**: Prometheus, Grafana
-- **Security**: OAuth, JWT, API Security
-
----
-
-## 📫 Get In Touch
-
-<div align="center">
-  <a href="mailto:ted.simwa@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/ted-simwa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ted-simwa">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
----
-
-## 🎨 Current Status
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ted-simwa&theme=dark&hide_border=true" alt="Activity Graph" />
-</div>
-
 ---
 
 <div align="center">
