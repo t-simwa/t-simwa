@@ -1,95 +1,107 @@
-# Hi, I'm Ted Simwa 👋
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Crafting+Digital+Excellence;Enterprise+Solutions+Architect" alt="Typing SVG" />
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h1 style="display: inline-block">
+        Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Ted Simwa
+      </h1><br />
+      <h4>Take a quick look at my <a href="https://drive.google.com/file/d/1WH4bbcUrIPtL2BP0MDV0H5InuMtxD6oV/view?usp=sharing" target="_blank">resume</a> for more info.</h4>
+    </summary>
+  </ul>
 </div>
 
+
+
+<!--- snake -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ted-simwa&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
 </div>
 
----
 
-## 🚀 About Me
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
 
-I'm a **Full Stack Developer** with expertise in enterprise-grade applications, cloud infrastructure, and modern web solutions. I specialize in delivering cutting-edge applications using Next.js, React, Node.js, and AWS.
 
-### 🎯 Current Focus
-- **Building scalable enterprise applications**
-- **Cloud infrastructure and DevOps practices**
-- **Modern web development with React/Next.js**
-- **Clean code and scalable architecture**
+<!--Intro start-->
+- 🔭 I'm currently working on **Next.js, React, TypeScript, Node.js, MongoDB, and AWS**
 
-### 🌱 What I'm Learning
-- **Microservices architecture**
-- **Kubernetes orchestration**
-- **Advanced AWS services**
-- **Performance optimization techniques**
+- 🌱 I'm currently learning **Microservices, Kubernetes, and Advanced DevOps practices**
 
-### 💬 Ask me about
-- **Next.js & React development**
-- **Node.js backend solutions**
-- **AWS cloud infrastructure**
-- **Enterprise application architecture**
-- **Clean code practices**
+- ☁️ I've keen interest in DevOps engineering. So, I'm learning various tools and practices such as **CI/CD, IaC, automation, and containerization**
 
----
+- 💬 Ask me about **React/Next.js, Node.js, TypeScript, MongoDB, AWS, Docker, Kubernetes**
 
-## 🛠 Tech Stack
+- 📫 Feel free to reach me out **ted.simwa@gmail.com** or <a href="https://www.linkedin.com/in/ted-simwa/" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+<!--Intro end-->
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!--
+**kodiworm/kodiworm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+Here are some ideas to get you started:
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-### Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
----
+<!--- github stats (start) -->
+### Here's my github stats:
 
-## 📊 GitHub Stats
+![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=tedsimwa&show_icons=true&theme=radical) 
+<!--- ![![GitHub Streak](https://streak-stats.demolab.com/?user=malindijohn&theme=radical)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats-rust-tau-59.vercel.app?user=tedsimwa&theme=radical)](https://git.io/streak-stats)
+<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malindijohn&hide_progress=true&thme=radical) -->
+<!--- stats (end) -->
 
-![](https://github-readme-stats.vercel.app/api?username=t-simwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=t-simwa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=t-simwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+<!--- Tech Stack (start) -->
+### 🛠 &nbsp;Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-## 🎯 Featured Projects
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=3498DB)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=000000)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express&logoColor=777BB4)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=DC382D)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css&logoColor=06B6D4)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; 
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress&logoColor=17202C)&nbsp;
+![VMware](https://img.shields.io/badge/-VMware-05122A?style=flat&logo=vmware&logoColor=607078)&nbsp;
+![NetApp](https://img.shields.io/badge/-NetApp-05122A?style=flat&logo=netapp&logoColor=0067C5)&nbsp;
+![Veeam](https://img.shields.io/badge/-Veeam-05122A?style=flat&logo=veeam&logoColor=00B336)&nbsp;
+![Radix UI](https://img.shields.io/badge/-Radix%20UI-05122A?style=flat&logo=radix-ui&logoColor=161618)&nbsp;
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-05122A?style=flat&logo=framer&logoColor=0055FF)&nbsp;
 
-### [Portfolio Website](https://github.com/ted-simwa/my-portfolio-website)
-A VS Code-themed portfolio showcasing my skills and projects with a modern, interactive interface.
+<!--- Tech Stack (end) -->
 
-### [Enterprise Applications]
-Building scalable solutions for enterprise clients with focus on performance and maintainability.
 
-### [Cloud Infrastructure]
-Designing and implementing robust cloud architectures on AWS with best practices.
-
----
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ted-simwa&style=flat-square&color=blue" alt="Profile Views" />
-  
-  *"Clean code is not written by following a set of rules. You learn clean code by writing lots of code and letting your conscience be your guide."*
-</div> 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
