@@ -16,10 +16,27 @@
 
 
 <!--- snake -->
+
+<!--- matrix rain -->
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
+  <div style="position: relative; height: 100px; overflow: hidden; background: linear-gradient(180deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%, rgba(0,0,0,0.8) 100%); border-radius: 8px; margin: 20px 0;">
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; font-family: 'Courier New', monospace; font-size: 14px; color: #00ff00; text-shadow: 0 0 5px #00ff00;">
+      <div style="animation: matrix-rain 3s linear infinite; opacity: 0.8;">01 10 11 00 01 10 11 00 01 10 11 00 01 10 11 00</div>
+      <div style="animation: matrix-rain 2.5s linear infinite; animation-delay: 0.5s; opacity: 0.6;">REACT NODE TYPESCRIPT AWS DOCKER KUBERNETES</div>
+      <div style="animation: matrix-rain 3.5s linear infinite; animation-delay: 1s; opacity: 0.7;">DEVELOPER FULLSTACK DEVOPS CLOUD MICROSERVICES</div>
+      <div style="animation: matrix-rain 2.8s linear infinite; animation-delay: 1.5s; opacity: 0.5;">MONGODB REDIS POSTGRESQL NEXTJS TAILWIND</div>
+    </div>
+    <style>
+      @keyframes matrix-rain {
+        0% { transform: translateY(-100px); opacity: 0; }
+        10% { opacity: 1; }
+        90% { opacity: 1; }
+        100% { transform: translateY(100px); opacity: 0; }
+      }
+    </style>
+  </div>
 </div>
+
 
 
 <!--h2 without bottom border-->
