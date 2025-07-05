@@ -25,39 +25,26 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">About Me</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I'm currently working on **Next.js, React, TypeScript, Node.js, MongoDB, and AWS**
+- 🚀 I'm a **Full Stack Developer & IT Professional** passionate about building scalable web applications
+
+- 💻 I'm currently working on **Next.js, React, TypeScript, Node.js, MongoDB, and AWS**
 
 - 🌱 I'm currently learning **Microservices, Kubernetes, and Advanced DevOps practices**
 
-- ☁️ I've keen interest in DevOps engineering. So, I'm learning various tools and practices such as **CI/CD, IaC, automation, and containerization**
+- ☁️ I've keen interest in **DevOps engineering** - learning **CI/CD, IaC, automation, and containerization**
 
-- 💬 Ask me about **React/Next.js, Node.js, TypeScript, MongoDB, AWS, Docker, Kubernetes**
+- 🎯 I specialize in **React/Next.js, Node.js, TypeScript, MongoDB, AWS, Docker, Kubernetes**
 
-- 📫 Feel free to reach me out **ted.simwa@gmail.com** or <a href="https://www.linkedin.com/in/ted-simwa/" target="_blank">
+- 📫 Feel free to reach me out **simwated@gmail.com** or <a href="https://www.linkedin.com/in/ted-simwa/" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
 <!--Intro end-->
-
-<!--
-**kodiworm/kodiworm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <!--- github stats (start) -->
