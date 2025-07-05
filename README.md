@@ -62,11 +62,9 @@ Here are some ideas to get you started:
 
 <!--- github stats (start) -->
 ### Here's my github stats:
-<div align="center">
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t-simwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
   ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=t-simwa&theme=dark&hide_border=false)<br/>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t-simwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
 
 <!--- Tech Stack (start) -->
 ### 🛠 &nbsp;Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
