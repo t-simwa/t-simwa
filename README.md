@@ -16,27 +16,10 @@
 
 
 <!--- snake -->
-
-<!--- matrix rain -->
 <div align="center">
-  <div style="position: relative; height: 100px; overflow: hidden; background: linear-gradient(180deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%, rgba(0,0,0,0.8) 100%); border-radius: 8px; margin: 20px 0;">
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; font-family: 'Courier New', monospace; font-size: 14px; color: #00ff00; text-shadow: 0 0 5px #00ff00;">
-      <div style="animation: matrix-rain 3s linear infinite; opacity: 0.8;">01 10 11 00 01 10 11 00 01 10 11 00 01 10 11 00</div>
-      <div style="animation: matrix-rain 2.5s linear infinite; animation-delay: 0.5s; opacity: 0.6;">REACT NODE TYPESCRIPT AWS DOCKER KUBERNETES</div>
-      <div style="animation: matrix-rain 3.5s linear infinite; animation-delay: 1s; opacity: 0.7;">DEVELOPER FULLSTACK DEVOPS CLOUD MICROSERVICES</div>
-      <div style="animation: matrix-rain 2.8s linear infinite; animation-delay: 1.5s; opacity: 0.5;">MONGODB REDIS POSTGRESQL NEXTJS TAILWIND</div>
-    </div>
-    <style>
-      @keyframes matrix-rain {
-        0% { transform: translateY(-100px); opacity: 0; }
-        10% { opacity: 1; }
-        90% { opacity: 1; }
-        100% { transform: translateY(100px); opacity: 0; }
-      }
-    </style>
-  </div>
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
 </div>
-
 
 
 <!--h2 without bottom border-->
@@ -63,16 +46,36 @@
   </a>
 <!--Intro end-->
 
+<!--
+**kodiworm/kodiworm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 <!--- github stats (start) -->
 ### Here's my github stats:
+
+<div align="center">
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t-simwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
   ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=t-simwa&theme=dark&hide_border=false)<br/>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t-simwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+<!--- stats (end) -->
+
 
 <!--- Tech Stack (start) -->
 ### 🛠 &nbsp;Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-
 
 #### 🎨 Frontend Development
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -114,6 +117,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 <!--- Tech Stack (end) -->
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
