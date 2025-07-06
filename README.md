@@ -77,13 +77,18 @@
 
 
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t-simwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  <table>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=t-simwa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" title="Github Stats"/>  
 
-  
-  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=t-simwa&theme=dark&hide_border=false)<br/>
+  </td>
+  <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=t-simwa&theme=tokyonight&hide_border=false" alt="Github Streak" title="Github Streak"/> 
+  </td>
+</tr>
+</table>
 
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t-simwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--- stats (end) -->
 
@@ -100,19 +105,19 @@
   </ul>
 </div>
 
-#### 🎨 Frontend Development
+####  Frontend Development:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css)](https://skillicons.dev)
 
-#### ⚙️ Backend Development
+####  Backend Development:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,java)](https://skillicons.dev)
 
-#### 🗄️ Databases & Storage
+####  Databases & Storage:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,redis,postgresql)](https://skillicons.dev)
 
-#### ☁️ Cloud & DevOps
+####  Cloud & DevOps:
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes)](https://skillicons.dev)
 
-#### 🛠️ Tools & Testing
+####  Tools & Testing:
 [![My Skills](https://skillicons.dev/icons?i=git,github,jest,vscode)](https://skillicons.dev)
 
 <!--- Tech Stack (end) -->
