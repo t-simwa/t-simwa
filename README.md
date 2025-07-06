@@ -7,7 +7,7 @@
   <ul align="center">
     <summary>
       <h1 style="display: inline-block">
-        Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/m  aster/Hi.gif" width="30px">, I'm Ted Simwa
+        Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Ted Simwa
       </h1><br />
     </summary>
   </ul>
