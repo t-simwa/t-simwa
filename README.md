@@ -60,7 +60,11 @@
 
 
 <!--- Tech Stack (start) -->
-### <summary><h2 style="display: inline-block">Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2></summary>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tech Stack</h2></summary>
+  </ul>
+</div>
 
 #### 🎨 Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css)](https://skillicons.dev)
