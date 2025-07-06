@@ -1,6 +1,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<header>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -27,7 +28,7 @@
         <a href="https://leetcode.com/u/tedsimwa/">LeetCode</a>
      </th>
   </tr>
-
+  </header>
 
 <!--- 3D Contribution Graph -->
 <div align="center">
