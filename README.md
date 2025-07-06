@@ -14,7 +14,7 @@
 </div>
 </header>
 
-<table align="center">
+<table align="left">
   <tr >
     <th>
       <img align="center" width="24" height="24" src="https://img.icons8.com/material-outlined/24/EBEBEB/globe--v1.png" alt="globe--v1"/>
