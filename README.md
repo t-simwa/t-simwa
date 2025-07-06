@@ -35,6 +35,8 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph" height="20px"/>
 </div>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -59,7 +61,11 @@
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="25" width="25" />
   </a>
 <!--Intro end-->
----
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">My Github Stats</h2></summary>
@@ -78,8 +84,11 @@
 
 <!--- stats (end) -->
 
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--- Tech Stack (start) -->
+
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Tech Stack</h2></summary>
