@@ -7,13 +7,14 @@
   <ul align="center">
     <summary>
       <h1 style="display: inline-block">
-        Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Ted Simwa
+        Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/m  aster/Hi.gif" width="30px">, I'm Ted Simwa
       </h1><br />
     </summary>
   </ul>
 </div>
+</header>
 
-<table align="left">
+<table align="center">
   <tr >
     <th>
       <img align="center" width="24" height="24" src="https://img.icons8.com/material-outlined/24/EBEBEB/globe--v1.png" alt="globe--v1"/>
@@ -28,7 +29,7 @@
         <a href="https://leetcode.com/u/tedsimwa/">LeetCode</a>
      </th>
   </tr>
-  </header>
+</table>
 
 <!--- 3D Contribution Graph -->
 <div align="center">
