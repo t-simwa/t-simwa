@@ -12,6 +12,21 @@
   </ul>
 </div>
 
+<table align="left">
+  <tr >
+    <th>
+      <img align="center" width="24" height="24" src="https://img.icons8.com/material-outlined/24/EBEBEB/globe--v1.png" alt="globe--v1"/>
+      <a href="https://www.tedsimwa.dev/" />  My Portfolio  
+    </th> 
+    <th>
+   <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>   
+  <a href="https://www.linkedin.com/in/ted-simwa/" />   LinkedIn
+    </th>
+     <th>
+       <img align="center" width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>
+        <a href="https://leetcode.com/u/tedsimwa/">LeetCode</a>
+     </th>
+  </tr>
 
 
 <!--- 3D Contribution Graph -->
@@ -29,17 +44,17 @@
 
 
 <!--Intro start-->
-- 🚀 I'm a **Full Stack Developer & IT Professional** passionate about building scalable web applications
+-  I'm a **Full Stack Developer & IT Professional** passionate about building scalable web applications
 
-- 💻 I'm currently working on **Next.js, React, TypeScript, Node.js, MongoDB, and AWS**
+-  I'm currently working on **Next.js, React, TypeScript, Node.js, MongoDB, and AWS**
 
-- 🌱 I'm currently learning **Microservices, Kubernetes, and Advanced DevOps practices**
+-  I'm currently learning **Microservices, Kubernetes, and Advanced DevOps practices**
 
-- ☁️ I've keen interest in **DevOps engineering** - learning **CI/CD, IaC, automation, and containerization**
+-  I've keen interest in **DevOps engineering** - learning **CI/CD, IaC, automation, and containerization**
 
-- 🎯 I specialize in **React/Next.js, Node.js, TypeScript, MongoDB, AWS, Docker, Kubernetes**
+-  I specialize in **React/Next.js, Node.js, TypeScript, MongoDB, AWS, Docker, Kubernetes**
 
-- 📫 Feel free to reach me out **simwated@gmail.com** or <a href="https://www.linkedin.com/in/ted-simwa/" target="_blank">
+-  Feel free to reach me out **simwated@gmail.com** or <a href="https://www.linkedin.com/in/ted-simwa/" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
 <!--Intro end-->
