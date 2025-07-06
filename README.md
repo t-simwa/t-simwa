@@ -56,7 +56,7 @@
 -  I specialize in **React/Next.js, Node.js, TypeScript, MongoDB, AWS, Docker, Kubernetes**
 
 -  Feel free to reach me out **simwated@gmail.com** or <a href="https://www.linkedin.com/in/ted-simwa/" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="25" width="25" />
   </a>
 <!--Intro end-->
 
