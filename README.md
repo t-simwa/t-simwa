@@ -43,7 +43,7 @@
 
 <!--- 3D Contribution Graph -->
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph" height="100px"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph" height="1000px"/>
 </div>
 
 <!--h2 without bottom border-->
