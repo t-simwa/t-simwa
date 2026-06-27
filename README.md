@@ -18,7 +18,7 @@
   <tr >
     <th>
       <img align="center" width="24" height="24" src="https://img.icons8.com/material-outlined/24/EBEBEB/globe--v1.png" alt="globe--v1"/>
-      <a href="https://www.tedsimwa.dev/" />  My Portfolio  
+      <a href="https://www.linkedin.com/in/ted-simwa/" />  Portfolio  
     </th> 
     <th>
    <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>   
